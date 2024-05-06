@@ -20,10 +20,14 @@ var init = function (window) {
         ////////////////////////////////////////////////////////////
         
         // TODO 1 : Declare and initialize our variables
+var circle
+var circle =[];
 
+</details>
 
         // TODO 2 : Create a function that draws a circle 
-        
+        function drawCircle
+        circle = draw .randomCirclearea
 
         // TODO 3 / 7 : Call the drawCircle() function 
 
